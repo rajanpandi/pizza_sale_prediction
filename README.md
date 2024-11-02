@@ -6,10 +6,8 @@ Predict future sales based on historical data.
 Optimize ingredient stock levels to meet expected demand, based on the prediction results.
 Project Structure
 Data: Contains raw sales and ingredient data.
-Notebooks: Jupyter notebooks for exploration, modeling, and predictions.
 Models: Scripts or saved model files for ARIMA, SARIMAX, and LSTM.
 Results: Predictions and evaluations.
-README.md: Project documentation.
 Data Preparation
 Data Collection: Gathered historical sales data and ingredients data for each type of pizza.
 Data Cleaning: Processed data by:
